@@ -1,2 +1,2 @@
 # PokemonAPI
-Top Trump-like game. Multi user Pokemon card game 
+Top Trump-like game -  Multi user Pokemon card game 
